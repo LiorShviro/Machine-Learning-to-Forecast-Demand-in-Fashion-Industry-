@@ -18,7 +18,7 @@ The model aims to help fashion retailers align production planning with predicte
 - Data preprocessing and pattern analysis
 
 ## 📄 Report
-The full academic report describing the research, methodology, and model is available in [`report/fashion_forecasting_report.pdf`](./report/fashion_forecasting_report.pdf).
+The full academic report describing the research, methodology, and model is available in [`report/A Machine Learning Approach to Forecasting Demand in Fashion Industry.pdf`](./report/A Machine Learning Approach to Forecasting Demand in Fashion Industry.pdf).
 
 ## 🛠️ Authors
 - Michal Koren, Shenkar College  
