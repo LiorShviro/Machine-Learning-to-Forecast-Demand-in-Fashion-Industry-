@@ -1,6 +1,7 @@
 # 🎨 Fashion Demand Forecasting using Machine Learning
 
 This project presents a machine learning–based approach to forecasting demand in the fashion industry, with a special focus on **color trends**. The model combines unsupervised and probabilistic learning with linear programming optimization to improve production decisions and reduce waste.
+Link to the full academic paper: https://ieeexplore.ieee.org/abstract/document/11011548
 
 ## 📌 Project Summary
 - **Clustering color forecasts** using K-Means
